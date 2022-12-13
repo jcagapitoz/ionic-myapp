@@ -14,7 +14,7 @@ export class Tab1Page implements OnInit {
   ngOnInit(): void {
     this.numero = 10;
     //debugger;
-    this.numero = 20;
+    this.numero = 15;
     this.numero+= 15;
     console.log(this.numero);
     console.log("Hola Mundo");
